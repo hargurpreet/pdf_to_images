@@ -1,4 +1,4 @@
-PDF to Images Creater
+PDF to Images
 =======
 
 Description
