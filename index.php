@@ -50,7 +50,7 @@
 				   						<input type="text" name="img_count"> (only number)
 				   						<br>
 
-										<p><b>Slides Prefix(eg. ppt)</b></p>
+										<p><b>Slides Prefix(e.g. ppt)</b></p>
 				   						<input type="text" name="img_name_pre"> 
 				   						<br>				   							
 					   					<input name="create_slides" type="submit" value="Create Slides" />
